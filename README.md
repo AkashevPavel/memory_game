@@ -1,2 +1,6 @@
-# memory_game
-freeCodeCamp tutorial on creating a small memory game
+#Memory Game
+
+Based on a tutorial from freeCodeCamp.org
+
+
+You have to find all pairs of images 
