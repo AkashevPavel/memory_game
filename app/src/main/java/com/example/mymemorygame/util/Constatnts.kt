@@ -12,7 +12,9 @@ val DEFAULT_ICONS = listOf(
     R.drawable.ic_palm,
     R.drawable.ic_plane,
     R.drawable.ic_scisors,
-    R.drawable.ic_sun
+    R.drawable.ic_sun,
+    R.drawable.ic_umbrella,
+    R.drawable.ic_waves
 
 
 )
